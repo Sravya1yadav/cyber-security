@@ -1,3 +1,1 @@
-#Steganography-hiding-text-inside-image
-
-
+# STEGNOGRAPHY
